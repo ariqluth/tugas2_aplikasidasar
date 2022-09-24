@@ -1,16 +1,11 @@
-# belajarflutter_2
+# tugas2_aplikasidasar
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tugas Flutter 1 mendesign mirip seperti portal berita 
+# Hasil jadi 
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_232](https://user-images.githubusercontent.com/17227515/192072655-045ba855-a1e3-422d-89e3-1952a19af54b.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
